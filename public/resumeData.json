@@ -1,12 +1,12 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
-    "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
+    "name": "Nishant Sethi",
+    "occupation": "ReactJS Developer && Power Programmer @Infosys",
+    "description": "Full Stack React Developer by Day && Student by Night. #Boss ",
+    "image": "nishant_sethi.jpeg",
+    "bio": "My name is Nishant, I'm a Full Stack ReactJS Developer. Currently I'm working at Brilliant Basics For Infosys ",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
+    "email": "nishant.sethi275@outlook.com",
     "phone": "+44 12 345 6789",
     "address": {
       "street": "123 Fake Street",
@@ -15,26 +15,26 @@
       "zip": "ABC 123"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "resumedownload": "https://drive.google.com/file/d/10eH8TdZJwFYPVJRZgoV3W3Z6Z1ZkoIqQ/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/nishant.sethi.7549/",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/in/nishant-sethi-0188b1a2/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/i_am_nish_sethi/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "https://github.com/nishant-sethi",
         "className": "fa fa-github"
       }
     ]
@@ -43,50 +43,48 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
-        "description": "Graduated with Distinction"
+        "school": "Jaypee University of Information Technology",
+        "degree": "Bachelors in Advanced Computer Science",
+        "graduated": "August 2017",
+        "description": "Passed with 7.4 CGPA (who cares about marks though)"
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
-        "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
-      },
-      {
-        "company": "Lindar Media",
-        "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
-        "description": "Building MrQ, a gambling website."
+        "company": "Infosys",
+        "title": "Specialist Programmer && MERN Stack Developer",
+        "years": "Aug 2017 - Present",
+        "description": "Developing Apps in React, Java and Python."
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "75%"
       },
       {
-        "name": "CSS",
-        "level": "95%"
-      },
-      {
-        "name": "Git",
-        "level": "60%"
-      },
-      {
-        "name": "Figma && Adobe XD",
-        "level": "55%"
+        "name": "NodeJS",
+        "level": "75%"
       },
       {
         "name": "HTML5",
         "level": "80%"
       },
       {
+        "name": "CSS3",
+        "level": "75%"
+      },
+      {
         "name": "MongoDB",
+        "level": "65%"
+      },
+      {
+        "name": "Machine Learning",
         "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
       }
     ]
   },
@@ -96,43 +94,25 @@
         "title": "MERN Stack WhatsApp Clone",
         "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
         "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+        "url": "https://whatsapp-mern-53a6d.web.app"
       },
       {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
-      },
-      {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
-      },
-      {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
-      },
-      {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+        "title": "Instagram Clone With Firebase",
+        "category": "Instagram Clone with Firebase (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "Instagram-clone.png",
+        "url": "https://instagram-clone-a4c86.web.app/"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
+        "text": "I rarely come across real talents who stand out like Nishant. I had the pleasure of working with Nishant for one year at Infosys, managing on a project team. Nishant’s ability to handle the project was unlike any I’ve seen before and made a dramatic increase in the productivity level of our company. No matter how tense a meeting, he made sure he is always calm. As a team member or a leader, Nishant earns my highest recommendation",
+        "user": "Hidayath Ali, Project Manager, Infosys"
       },
       {
-        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": "I met Nishant during a Developer Training Session in Infosys and collaborated with him over few project assignments. Nishant immediately struck me as a very enthusiastic, intelligent person with a hungry for more attitude. I was particularly impressed with his methodical approach to analyze & break down complex problems and then start to solutionize it. His communication skills especially showcase relevant examples and metaphors to convey an idea was impressive. Nishant will be an asset to any team & organization he works for.",
+        "user": "Deepak Sridharan, Tech Lead, Infosys"
       }
     ]
   }
