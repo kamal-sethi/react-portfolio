@@ -97,6 +97,12 @@
         "url": "https://whatsapp-mern-53a6d.web.app"
       },
       {
+        "title": "Amazon Clone With Firebase",
+        "category": "Amazon Clone with Firebase (ReactJS, Redux and Firebase)",
+        "image": "amazon-clone.png",
+        "url": "https://clone-af859.web.app/"
+      },
+      {
         "title": "Instagram Clone With Firebase",
         "category": "Instagram Clone with Firebase (MongoDB, ExpressJS, ReactJS, NodeJS)",
         "image": "Instagram-clone.png",
