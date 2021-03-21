@@ -20,18 +20,13 @@ class Footer extends Component {
           <div className="twelve columns">
             <ul className="social-links">{networks}</ul>
 
-            <ul>
-              <li>
-                Modified with love by{" "}
-                <span className="footer__madeBy">Nishant Sethi</span> with the
-                Support of Clever Programmer team ♥️
-              </li>
-            </ul>
-
             <ul className="copyright">
               <li>
-                &copy; All credit goes to Nishant Sethi - Copyright 2017 Nishant
-                Sethi
+                &copy; Copyright 2020{" "}
+                <a href="https://www.linkedin.com/in/nishant-sethi-0188b1a2/">
+                  <strong>Nishant Sethi</strong>
+                </a>
+                . All rights reserved.
               </li>
             </ul>
           </div>

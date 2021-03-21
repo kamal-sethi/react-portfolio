@@ -700,7 +700,7 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 #testimonials {
-  background: #1f1f1f url(../images/testimonials-bg.jpg) no-repeat center center;
+  background: #2b2b2b;
   background-size: cover !important;
   -webkit-background-size: cover !important;
   background-attachment: fixed;
@@ -720,17 +720,15 @@ call-to-action .button {
   letter-spacing: 3px;
   color: #fff;
 }
-#testimonials h1 span {
-  display: none;
-}
 #testimonials .header-col {
   padding-top: 9px;
+  margin-left: -2%;
 }
 #testimonials .header-col h1:before {
   font-family: "FontAwesome";
   content: "\f10d";
   padding-right: 10px;
-  font-size: 72px;
+  font-size: 52px;
   line-height: 72px;
   text-align: left;
   float: left;
@@ -909,14 +907,14 @@ call-to-action .button {
   margin-bottom: 6px;
 }
 #contact h1 span {
-  display: none;
+  display: flex;
 }
 #contact h1:before {
   font-family: "FontAwesome";
   content: "\f0e0";
-  padding-right: 10px;
-  font-size: 72px;
-  line-height: 72px;
+  padding-left: 0px;
+  font-size: 40px;
+  line-height: 1px;
   text-align: left;
   float: left;
   color: #ebeeee;

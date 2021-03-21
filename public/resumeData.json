@@ -4,18 +4,16 @@
     "occupation": "ReactJS Developer && Power Programmer @Infosys",
     "description": "Full Stack React Developer by Day && Student by Night. #Boss ",
     "image": "nishant_sethi.jpeg",
-    "bio": "My name is Nishant, I'm a Full Stack ReactJS Developer. Currently I'm working at Brilliant Basics For Infosys ",
+    "bio": "My Name is Nishant, I'm a Full Stack ReactJS Developer with Infosys ",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "nishant.sethi275@outlook.com",
-    "phone": "+44 12 345 6789",
+    "email": "nsethi610@gmail.com",
+    "phone": "+44 7721808863",
     "address": {
-      "street": "123 Fake Street",
       "city": "London",
-      "state": "UK",
-      "zip": "ABC 123"
+      "state": "UK"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload": "https://drive.google.com/file/d/10eH8TdZJwFYPVJRZgoV3W3Z6Z1ZkoIqQ/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1fPtjMgE4IOjLGbMB60XqqMhXB-u1LETS/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
@@ -28,9 +26,9 @@
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/i_am_nish_sethi/",
-        "className": "fa fa-instagram"
+        "name": "medium",
+        "url": "https://nsethi610.medium.com/",
+        "className": "fa fa-edit"
       },
       {
         "name": "github",
@@ -54,13 +52,13 @@
         "company": "Infosys",
         "title": "Specialist Programmer && MERN Stack Developer",
         "years": "Aug 2017 - Present",
-        "description": "Developing Apps in React, Java and Python."
+        "description": "Developing Apps in ReactJS, Node and Express."
       }
     ],
     "skills": [
       {
-        "name": "ReactJs",
-        "level": "75%"
+        "name": "ReactJS",
+        "level": "90%"
       },
       {
         "name": "NodeJS",
@@ -68,7 +66,7 @@
       },
       {
         "name": "HTML5",
-        "level": "80%"
+        "level": "90%"
       },
       {
         "name": "CSS3",
@@ -76,7 +74,7 @@
       },
       {
         "name": "MongoDB",
-        "level": "65%"
+        "level": "75%"
       },
       {
         "name": "Machine Learning",
@@ -84,7 +82,7 @@
       },
       {
         "name": "Git",
-        "level": "70%"
+        "level": "90%"
       }
     ]
   },
@@ -107,6 +105,12 @@
         "category": "Instagram Clone with Firebase (MongoDB, ExpressJS, ReactJS, NodeJS)",
         "image": "Instagram-clone.png",
         "url": "https://instagram-clone-a4c86.web.app/"
+      },
+      {
+        "title": "Spotify Clone With Firebase",
+        "category": "Spotify Clone with Firebase (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "spotify-mern.jpeg",
+        "url": "https://my-spotify-app-clone.netlify.app/"
       }
     ]
   },
