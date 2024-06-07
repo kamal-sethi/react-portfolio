@@ -1,38 +1,27 @@
 {
   "main": {
-    "name": "Nishant Sethi",
-    "occupation": "ReactJS Developer && Power Programmer @Infosys",
+    "name": "Kamal",
     "description": "Full Stack React Developer by Day && Student by Night. #Boss ",
-    "image": "nishant_sethi.jpeg",
-    "bio": "My Name is Nishant, I'm a Full Stack ReactJS Developer with Infosys ",
+    "image": "https://drive.google.com/file/d/1T12DpkzmYpda8RX363NSPL9HrcXTxSJG/view?usp=drive_link",
+    "bio": "My Name is Kamal, I'm a Full Stack Developer",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "nsethi610@gmail.com",
-    "phone": "+44 7721808863",
+    "email": "kamalsethi018@gmail.com",
+    "phone": "+91 6280-795250",
     "address": {
-      "city": "London",
-      "state": "UK"
+      "city": "Rajpura",
+      "state": "Punjab"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "https://drive.google.com/file/d/1fPtjMgE4IOjLGbMB60XqqMhXB-u1LETS/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/13CaR3z5_Q5zIAef-X0ha0g8na3Ogm1FB/view?usp=drive_link",
     "social": [
       {
-        "name": "facebook",
-        "url": "https://www.facebook.com/nishant.sethi.7549/",
-        "className": "fa fa-facebook"
-      },
-      {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/nishant-sethi-0188b1a2/",
+        "url": "https://www.linkedin.com/in/kamal-sethi-4ab879232/",
         "className": "fa fa-linkedin"
       },
-      {
-        "name": "medium",
-        "url": "https://nsethi610.medium.com/",
-        "className": "fa fa-edit"
-      },
+
       {
         "name": "github",
-        "url": "https://github.com/nishant-sethi",
+        "url": "https://github.com/kamal-sethi",
         "className": "fa fa-github"
       }
     ]
@@ -41,20 +30,19 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "Jaypee University of Information Technology",
-        "degree": "Bachelors in Advanced Computer Science",
-        "graduated": "August 2017",
-        "description": "Passed with 7.4 CGPA (who cares about marks though)"
-      }
-    ],
-    "work": [
+        "school": "Swami Vivekanand Institute of Education and Technology",
+        "degree": "Masters in Computer Application",
+        "graduation time period": "2023-2025",
+        "description": "8 CGPA(till now) "
+      },
       {
-        "company": "Infosys",
-        "title": "Specialist Programmer && MERN Stack Developer",
-        "years": "Aug 2017 - Present",
-        "description": "Developing Apps in ReactJS, Node and Express."
+        "school": "Chitkara University",
+        "degree": "Bachelors in Computer Application",
+        "graduation time period": "2020-2023",
+        "description": "9 CGPA "
       }
     ],
+
     "skills": [
       {
         "name": "ReactJS",
@@ -62,7 +50,7 @@
       },
       {
         "name": "NodeJS",
-        "level": "75%"
+        "level": "90%"
       },
       {
         "name": "HTML5",
@@ -77,52 +65,40 @@
         "level": "75%"
       },
       {
-        "name": "Machine Learning",
+        "name": "MySQL",
+        "level": "80%"
+      },
+      {
+        "name": "JavaScript",
         "level": "80%"
       },
       {
         "name": "Git",
-        "level": "90%"
+        "level": "80%"
+      },
+      {
+        "name": "C++",
+        "level": "70%"
       }
+
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://whatsapp-mern-53a6d.web.app"
+        "title": "MERN Stack Ecommerce Website",
+        "category": "Ecommerce website built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS,Redux)",
+        "url": "https://github.com/kamal-sethi/react-ecommerce"
       },
       {
-        "title": "Amazon Clone With Firebase",
-        "category": "Amazon Clone with Firebase (ReactJS, Redux and Firebase)",
-        "image": "amazon-clone.png",
-        "url": "https://clone-af859.web.app/"
+        "title": "Blog App",
+        "category": "Blog app (ReactJS, ExpressJS, NodeJS,MongoDB)",
+        
       },
       {
-        "title": "Instagram Clone With Firebase",
-        "category": "Instagram Clone with Firebase (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "Instagram-clone.png",
-        "url": "https://instagram-clone-a4c86.web.app/"
-      },
-      {
-        "title": "Spotify Clone With Firebase",
-        "category": "Spotify Clone with Firebase (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "spotify-mern.jpeg",
-        "url": "https://my-spotify-app-clone.netlify.app/"
-      }
-    ]
-  },
-  "testimonials": {
-    "testimonials": [
-      {
-        "text": "I rarely come across real talents who stand out like Nishant. I had the pleasure of working with Nishant for one year at Infosys, managing on a project team. Nishant’s ability to handle the project was unlike any I’ve seen before and made a dramatic increase in the productivity level of our company. No matter how tense a meeting, he made sure he is always calm. As a team member or a leader, Nishant earns my highest recommendation",
-        "user": "Hidayath Ali, Project Manager, Infosys"
-      },
-      {
-        "text": "I met Nishant during a Developer Training Session in Infosys and collaborated with him over few project assignments. Nishant immediately struck me as a very enthusiastic, intelligent person with a hungry for more attitude. I was particularly impressed with his methodical approach to analyze & break down complex problems and then start to solutionize it. His communication skills especially showcase relevant examples and metaphors to convey an idea was impressive. Nishant will be an asset to any team & organization he works for.",
-        "user": "Deepak Sridharan, Tech Lead, Infosys"
+        "title": "URL-Shortner",
+        "category": "URL shortner (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "url": "https://github.com/kamal-sethi/url-shortner"
       }
     ]
   }
